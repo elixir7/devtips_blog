@@ -9,3 +9,5 @@ This is a test blog created by following the devtips tutorial by Mackenzie Child
 * View
 
 * Delete
+
+Link to working site - "https://pure-cliffs-6357.herokuapp.com/"
